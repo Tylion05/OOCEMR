@@ -21,6 +21,9 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Grant Execution Permissions to Gradlew
+        run: chmod +x android/gradlew  # 🛠️ FIX: Add execute permission
+
       - name: Build Android APK
         run: cd android && ./gradlew assembleRelease
 
