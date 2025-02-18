@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490498076232",
+    "project_id": "ooc-emr",
+    "storage_bucket": "ooc-emr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490498076232:android:b8f706c312868e37b8b27d",
+        "android_client_info": {
+          "package_name": "com.oocemr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiq3XUGIW4sIXWoo5BcE6wx9o9C4kr0uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
